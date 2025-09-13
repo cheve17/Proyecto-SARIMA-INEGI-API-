@@ -50,10 +50,15 @@ Datos:
 
 ## Estructura del Proyecto
 📂 Proyecto-SARIMA-INEGI-API-
+
  ┣ 📜 fetcher.py         # ETL básico 
+
  ┣ 📜 README.md          # Explicación del proyecto
+
  ┣ 📜 .gitignore         # Para ignorar archivos sensibles o pesados
+
  ┣ 📜 observaciones.csv  # Base de datos del INEGI 
+ 
  ┣ 📜 SARIMA.ipynb       # Script del modelo 
  
 
